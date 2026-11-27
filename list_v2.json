@@ -2,12 +2,298 @@
   "generator": "tune-catalog",
   "sources": [
     {
-      "albums": {},
+      "albums": {
+        "900000001": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "title": "Смирись и расслабься",
+          "volumes": [
+            [
+              "9000000002",
+              "9000000003",
+              "9000000004",
+              "9000000005",
+              "9000000006",
+              "9000000007",
+              "9000000008",
+              "9000000009",
+              "9000000010",
+              "9000000011",
+              "9000000012",
+              "9000000013",
+              "9000000014",
+              "9000000015",
+              "9000000016"
+            ]
+          ],
+          "year": 2012
+        }
+      },
       "artists": {},
-      "artistsInsertions": {},
+      "artistsInsertions": {
+        "453589": {
+          "albums": [
+            "900000001"
+          ],
+          "tracks": [
+            "9000000002",
+            "9000000003",
+            "9000000004",
+            "9000000005",
+            "9000000006",
+            "9000000007",
+            "9000000008",
+            "9000000009",
+            "9000000010",
+            "9000000011",
+            "9000000012",
+            "9000000013",
+            "9000000014",
+            "9000000015",
+            "9000000016"
+          ]
+        }
+      },
       "playlists": {},
-      "tracks": {},
-      "tracksStorages": []
+      "tracks": {
+        "9000000002": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 219987,
+          "title": "Первомай"
+        },
+        "9000000003": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 320914,
+          "title": "Gay porn"
+        },
+        "9000000004": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 223922,
+          "title": "Дешёвые драмы"
+        },
+        "9000000005": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 232072,
+          "title": "Серёжа"
+        },
+        "9000000006": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 271944,
+          "title": "Наше лето"
+        },
+        "9000000007": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 244611,
+          "title": "Он постоянно"
+        },
+        "9000000008": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 188160,
+          "title": "Всё решено"
+        },
+        "9000000009": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 207144,
+          "title": "Рустем"
+        },
+        "9000000010": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 191399,
+          "title": "Фанк"
+        },
+        "9000000011": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 278570,
+          "title": "Так гріє"
+        },
+        "9000000012": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 193097,
+          "title": "Русский рок"
+        },
+        "9000000013": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 173819,
+          "title": "Лишь однажды"
+        },
+        "9000000014": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 143125,
+          "title": "45 лет"
+        },
+        "9000000015": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 243513,
+          "title": "Песня для девочек"
+        },
+        "9000000016": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 236513,
+          "title": "Кооператор"
+        }
+      },
+      "tracksStorages": [
+        {
+          "tracks": {
+            "9000000002": {
+              "durationMs": 219987,
+              "url": "9000000002"
+            },
+            "9000000003": {
+              "durationMs": 320914,
+              "url": "9000000003"
+            },
+            "9000000004": {
+              "durationMs": 223922,
+              "url": "9000000004"
+            },
+            "9000000005": {
+              "durationMs": 232072,
+              "url": "9000000005"
+            },
+            "9000000006": {
+              "durationMs": 271944,
+              "url": "9000000006"
+            },
+            "9000000007": {
+              "durationMs": 244611,
+              "url": "9000000007"
+            },
+            "9000000008": {
+              "durationMs": 188160,
+              "url": "9000000008"
+            },
+            "9000000009": {
+              "durationMs": 207144,
+              "url": "9000000009"
+            },
+            "9000000010": {
+              "durationMs": 191399,
+              "url": "9000000010"
+            },
+            "9000000011": {
+              "durationMs": 278570,
+              "url": "9000000011"
+            },
+            "9000000012": {
+              "durationMs": 193097,
+              "url": "9000000012"
+            },
+            "9000000013": {
+              "durationMs": 173819,
+              "url": "9000000013"
+            },
+            "9000000014": {
+              "durationMs": 143125,
+              "url": "9000000014"
+            },
+            "9000000015": {
+              "durationMs": 243513,
+              "url": "9000000015"
+            },
+            "9000000016": {
+              "durationMs": 236513,
+              "url": "9000000016"
+            }
+          },
+          "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
+        }
+      ]
     }
   ],
   "version": 2
