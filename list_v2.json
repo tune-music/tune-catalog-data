@@ -3,6 +3,28 @@
   "sources": [
     {
       "albums": {
+        "32962851": {
+          "artists": [
+            {
+              "id": 3315646,
+              "name": "Порнофильмы"
+            }
+          ],
+          "coverUri": "music-avatars.music.yandex.net/get-music-content/13529784/60f41fb0.a.32962851-1/%%",
+          "title": "Это пройдёт",
+          "volumes": [
+            [
+              "62107381",
+              "62107382",
+              "62107383",
+              "62107385",
+              "62107386",
+              "62107387",
+              "9000000046"
+            ]
+          ],
+          "year": 2020
+        },
         "900000001": {
           "artists": [
             {
@@ -90,6 +112,14 @@
       },
       "artists": {},
       "artistsInsertions": {
+        "3315646": {
+          "albums": [
+            "32962851"
+          ],
+          "tracks": [
+            "9000000046"
+          ]
+        },
         "453589": {
           "albums": [
             "900000001",
@@ -569,6 +599,17 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
           "durationMs": 201533,
           "title": "Подворотня - мой дом"
+        },
+        "9000000046": {
+          "artists": [
+            {
+              "id": 3315646,
+              "name": "Порнофильмы"
+            }
+          ],
+          "coverUri": "music-avatars.music.yandex.net/get-music-content/13529784/60f41fb0.a.32962851-1/%%",
+          "durationMs": 236053,
+          "title": "Это пройдёт"
         }
       },
       "tracksStorages": [
@@ -729,6 +770,10 @@
             "9000000045": {
               "durationMs": 201533,
               "url": "9000000045"
+            },
+            "9000000046": {
+              "durationMs": 236053,
+              "url": "9000000046"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
