@@ -33,6 +33,29 @@
             ]
           ],
           "year": 2012
+        },
+        "900000002": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "title": "Часть чего-то большего",
+          "volumes": [
+            [
+              "9000000023",
+              "9000000024",
+              "9000000025",
+              "9000000026",
+              "9000000027",
+              "9000000028",
+              "9000000029",
+              "9000000030",
+              "9000000031",
+              "9000000032",
+              "9000000033",
+              "9000000034",
+              "9000000035",
+              "9000000036"
+            ]
+          ],
+          "year": 2013
         }
       },
       "artists": {},
@@ -241,6 +264,76 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 230819,
           "title": "Серёжа"
+        },
+        "9000000023": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 167347,
+          "title": "Самый лучший друг"
+        },
+        "9000000024": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 135107,
+          "title": "Офисный стиляга"
+        },
+        "9000000025": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 162040,
+          "title": "Все мои друзья"
+        },
+        "9000000026": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 275707,
+          "title": "Знаешь, Таня"
+        },
+        "9000000027": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 204960,
+          "title": "Космос нас ждёт"
+        },
+        "9000000028": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 354187,
+          "title": "Кладбище самолётов"
+        },
+        "9000000029": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 239733,
+          "title": "Ты не такая"
+        },
+        "9000000030": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 180707,
+          "title": "Танцы"
+        },
+        "9000000031": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 168440,
+          "title": "Ебашь, Альбина"
+        },
+        "9000000032": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 291467,
+          "title": "Преждевременное семяизвержение"
+        },
+        "9000000033": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 154040,
+          "title": "Сега - Винтовар"
+        },
+        "9000000034": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 328800,
+          "title": "Я стараюсь быть лучше"
+        },
+        "9000000035": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 170947,
+          "title": "Взрослые травмы"
+        },
+        "9000000036": {
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 258987,
+          "title": "Улица Сталеваров"
         }
       },
       "tracksStorages": [
@@ -309,6 +402,62 @@
             "9000000022": {
               "durationMs": 230819,
               "url": "9000000022"
+            },
+            "9000000023": {
+              "durationMs": 167347,
+              "url": "9000000023"
+            },
+            "9000000024": {
+              "durationMs": 135107,
+              "url": "9000000024"
+            },
+            "9000000025": {
+              "durationMs": 162040,
+              "url": "9000000025"
+            },
+            "9000000026": {
+              "durationMs": 275707,
+              "url": "9000000026"
+            },
+            "9000000027": {
+              "durationMs": 204960,
+              "url": "9000000027"
+            },
+            "9000000028": {
+              "durationMs": 354187,
+              "url": "9000000028"
+            },
+            "9000000029": {
+              "durationMs": 239733,
+              "url": "9000000029"
+            },
+            "9000000030": {
+              "durationMs": 180707,
+              "url": "9000000030"
+            },
+            "9000000031": {
+              "durationMs": 168440,
+              "url": "9000000031"
+            },
+            "9000000032": {
+              "durationMs": 291467,
+              "url": "9000000032"
+            },
+            "9000000033": {
+              "durationMs": 154040,
+              "url": "9000000033"
+            },
+            "9000000034": {
+              "durationMs": 328800,
+              "url": "9000000034"
+            },
+            "9000000035": {
+              "durationMs": 170947,
+              "url": "9000000035"
+            },
+            "9000000036": {
+              "durationMs": 258987,
+              "url": "9000000036"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
