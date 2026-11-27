@@ -11,7 +11,7 @@
             }
           ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
-          "title": "Смирись и расслабься",
+          "title": "Смирись и расслабься!",
           "volumes": [
             [
               "9000000016",
@@ -29,7 +29,8 @@
               "9000000021",
               "9000000022",
               "9000000003",
-              "9000000004"
+              "9000000004",
+              "9000000037"
             ]
           ],
           "year": 2012
@@ -65,20 +66,21 @@
             "900000001"
           ],
           "tracks": [
-            "9000000018",
-            "9000000019",
-            "9000000020",
-            "9000000021",
-            "9000000022",
+            "9000000037",
             "9000000016",
+            "9000000018",
             "9000000014",
             "9000000017",
             "9000000013",
             "9000000002",
             "9000000012",
             "9000000011",
+            "9000000019",
+            "9000000020",
             "9000000008",
             "9000000007",
+            "9000000021",
+            "9000000022",
             "9000000003",
             "9000000004"
           ]
@@ -104,7 +106,6 @@
               "name": "Валентин Стрыкало"
             }
           ],
-          "contentWarning": "explicit",
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 320914,
           "title": "Gay porn"
@@ -138,7 +139,6 @@
               "name": "Валентин Стрыкало"
             }
           ],
-          "contentWarning": "explicit",
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 188160,
           "title": "Всё решено"
@@ -172,7 +172,6 @@
               "name": "Валентин Стрыкало"
             }
           ],
-          "contentWarning": "explicit",
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 173819,
           "title": "Лишь однажды"
@@ -334,6 +333,17 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 258987,
           "title": "Улица Сталеваров"
+        },
+        "9000000037": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 161804,
+          "title": "Я бью женщин и детей"
         }
       },
       "tracksStorages": [
@@ -458,6 +468,10 @@
             "9000000036": {
               "durationMs": 258987,
               "url": "9000000036"
+            },
+            "9000000037": {
+              "durationMs": 161804,
+              "url": "9000000037"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
