@@ -15,14 +15,19 @@
           "volumes": [
             [
               "9000000016",
+              "9000000018",
               "9000000014",
               "9000000017",
               "9000000013",
               "9000000002",
               "9000000012",
               "9000000011",
+              "9000000019",
+              "9000000020",
               "9000000008",
               "9000000007",
+              "9000000021",
+              "9000000022",
               "9000000003",
               "9000000004"
             ]
@@ -37,8 +42,14 @@
             "900000001"
           ],
           "tracks": [
-            "9000000017",
+            "9000000018",
+            "9000000019",
+            "9000000020",
+            "9000000021",
+            "9000000022",
+            "9000000016",
             "9000000014",
+            "9000000017",
             "9000000013",
             "9000000002",
             "9000000012",
@@ -46,8 +57,7 @@
             "9000000008",
             "9000000007",
             "9000000003",
-            "9000000004",
-            "9000000016"
+            "9000000004"
           ]
         }
       },
@@ -71,6 +81,7 @@
               "name": "Валентин Стрыкало"
             }
           ],
+          "contentWarning": "explicit",
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 320914,
           "title": "Gay porn"
@@ -104,6 +115,7 @@
               "name": "Валентин Стрыкало"
             }
           ],
+          "contentWarning": "explicit",
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 188160,
           "title": "Всё решено"
@@ -137,6 +149,7 @@
               "name": "Валентин Стрыкало"
             }
           ],
+          "contentWarning": "explicit",
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 173819,
           "title": "Лишь однажды"
@@ -173,6 +186,61 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 186627,
           "title": "Кайен"
+        },
+        "9000000018": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 254799,
+          "title": "Песня для девочек"
+        },
+        "9000000019": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 193438,
+          "title": "Фанк"
+        },
+        "9000000020": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 211724,
+          "title": "Рустем"
+        },
+        "9000000021": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 208145,
+          "title": "Наше лето"
+        },
+        "9000000022": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
+          "durationMs": 230819,
+          "title": "Серёжа"
         }
       },
       "tracksStorages": [
@@ -221,6 +289,26 @@
             "9000000017": {
               "durationMs": 186627,
               "url": "9000000017"
+            },
+            "9000000018": {
+              "durationMs": 254799,
+              "url": "9000000018"
+            },
+            "9000000019": {
+              "durationMs": 193438,
+              "url": "9000000019"
+            },
+            "9000000020": {
+              "durationMs": 211724,
+              "url": "9000000020"
+            },
+            "9000000021": {
+              "durationMs": 208145,
+              "url": "9000000021"
+            },
+            "9000000022": {
+              "durationMs": 230819,
+              "url": "9000000022"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
