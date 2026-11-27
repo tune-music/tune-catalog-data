@@ -4,38 +4,10 @@
     {
       "albums": {},
       "artists": {},
-      "artistsInsertions": {
-        "453589": {
-          "albums": [],
-          "tracks": [
-            "9000000001"
-          ]
-        }
-      },
-      "tracks": {
-        "9000000001": {
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин стрыкало"
-            }
-          ],
-          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/t-9000000001.jpg",
-          "durationMs": 186627,
-          "title": "Кайен"
-        }
-      },
-      "tracksStorages": [
-        {
-          "tracks": {
-            "9000000001": {
-              "durationMs": 186627,
-              "url": "9000000001"
-            }
-          },
-          "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
-        }
-      ]
+      "artistsInsertions": {},
+      "playlists": {},
+      "tracks": {},
+      "tracksStorages": []
     }
   ],
   "version": 2
