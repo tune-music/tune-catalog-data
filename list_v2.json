@@ -36,6 +36,12 @@
           "year": 2012
         },
         "900000002": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "title": "Часть чего-то большего",
           "volumes": [
@@ -56,13 +62,30 @@
               "9000000036"
             ]
           ],
-          "year": 2013,
+          "year": 2013
+        },
+        "900000003": {
           "artists": [
             {
               "id": 453589,
               "name": "Валентин Стрыкало"
             }
-          ]
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
+          "title": "Развлечение",
+          "volumes": [
+            [
+              "9000000038",
+              "9000000039",
+              "9000000040",
+              "9000000041",
+              "9000000042",
+              "9000000043",
+              "9000000044",
+              "9000000045"
+            ]
+          ],
+          "year": 2016
         }
       },
       "artists": {},
@@ -70,7 +93,8 @@
         "453589": {
           "albums": [
             "900000001",
-            "900000002"
+            "900000002",
+            "900000003"
           ],
           "tracks": [
             "9000000037",
@@ -103,7 +127,15 @@
             "9000000033",
             "9000000034",
             "9000000035",
-            "9000000036"
+            "9000000036",
+            "9000000038",
+            "9000000039",
+            "9000000040",
+            "9000000041",
+            "9000000042",
+            "9000000043",
+            "9000000044",
+            "9000000045"
           ]
         }
       },
@@ -286,158 +318,158 @@
           "title": "Серёжа"
         },
         "9000000023": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 167347,
-          "title": "Самый лучший друг",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Самый лучший друг"
         },
         "9000000024": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 135107,
-          "title": "Офисный стиляга",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Офисный стиляга"
         },
         "9000000025": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 162040,
-          "title": "Все мои друзья",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Все мои друзья"
         },
         "9000000026": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 275707,
-          "title": "Знаешь, Таня",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Знаешь, Таня"
         },
         "9000000027": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 204960,
-          "title": "Космос нас ждёт",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Космос нас ждёт"
         },
         "9000000028": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 354187,
-          "title": "Кладбище самолётов",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Кладбище самолётов"
         },
         "9000000029": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 239733,
-          "title": "Ты не такая",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Ты не такая"
         },
         "9000000030": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 180707,
-          "title": "Танцы",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Танцы"
         },
         "9000000031": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 168440,
-          "title": "Ебашь, Альбина",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Ебашь, Альбина"
         },
         "9000000032": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 291467,
-          "title": "Преждевременное семяизвержение",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Преждевременное семяизвержение"
         },
         "9000000033": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 154040,
-          "title": "Сега - Винтовар",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Сега - Винтовар"
         },
         "9000000034": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 328800,
-          "title": "Я стараюсь быть лучше",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Я стараюсь быть лучше"
         },
         "9000000035": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 170947,
-          "title": "Взрослые травмы",
-          "artists": [
-            {
-              "id": 453589,
-              "name": "Валентин Стрыкало"
-            }
-          ]
+          "title": "Взрослые травмы"
         },
         "9000000036": {
-          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
-          "durationMs": 258987,
-          "title": "Улица Сталеваров",
           "artists": [
             {
               "id": 453589,
               "name": "Валентин Стрыкало"
             }
-          ]
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
+          "durationMs": 258987,
+          "title": "Улица Сталеваров"
         },
         "9000000037": {
           "artists": [
@@ -449,6 +481,94 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 161804,
           "title": "Я бью женщин и детей"
+        },
+        "9000000038": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
+          "durationMs": 305920,
+          "title": "Ускользает"
+        },
+        "9000000039": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
+          "durationMs": 294090,
+          "title": "О брат"
+        },
+        "9000000040": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
+          "durationMs": 229870,
+          "title": "92"
+        },
+        "9000000041": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
+          "durationMs": 252210,
+          "title": "Решится само собой"
+        },
+        "9000000042": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
+          "durationMs": 193000,
+          "title": "Делать это трезвым"
+        },
+        "9000000043": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
+          "durationMs": 344060,
+          "title": "Тени"
+        },
+        "9000000044": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
+          "durationMs": 424380,
+          "title": "Бесполезно"
+        },
+        "9000000045": {
+          "artists": [
+            {
+              "id": 453589,
+              "name": "Валентин Стрыкало"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
+          "durationMs": 201533,
+          "title": "Подворотня - мой дом"
         }
       },
       "tracksStorages": [
@@ -577,6 +697,38 @@
             "9000000037": {
               "durationMs": 161804,
               "url": "9000000037"
+            },
+            "9000000038": {
+              "durationMs": 305920,
+              "url": "9000000038"
+            },
+            "9000000039": {
+              "durationMs": 294090,
+              "url": "9000000039"
+            },
+            "9000000040": {
+              "durationMs": 229870,
+              "url": "9000000040"
+            },
+            "9000000041": {
+              "durationMs": 252210,
+              "url": "9000000041"
+            },
+            "9000000042": {
+              "durationMs": 193000,
+              "url": "9000000042"
+            },
+            "9000000043": {
+              "durationMs": 344060,
+              "url": "9000000043"
+            },
+            "9000000044": {
+              "durationMs": 424380,
+              "url": "9000000044"
+            },
+            "9000000045": {
+              "durationMs": 201533,
+              "url": "9000000045"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
