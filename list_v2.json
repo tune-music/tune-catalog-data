@@ -150,7 +150,6 @@
             "3601073"
           ],
           "tracks": [
-            "9000000047",
             "29863097",
             "29863098",
             "29863099",
@@ -164,7 +163,6 @@
             "3601073"
           ],
           "tracks": [
-            "9000000047",
             "29863097",
             "29863098",
             "29863099",
@@ -1073,29 +1071,6 @@
           "coverUri": "music-avatars.music.yandex.net/get-music-content/13529784/60f41fb0.a.32962851-1/%%",
           "durationMs": 236053,
           "title": "Это пройдёт"
-        },
-        "9000000047": {
-          "artists": [
-            {
-              "id": 4443004,
-              "name": "PHARAOH"
-            },
-            {
-              "id": 4480055,
-              "name": "Boulevard Depo"
-            }
-          ],
-          "audioProfile": {
-            "bass": 0.7279999852180481,
-            "brightness": 0.30799999833106995,
-            "energy": 0.7250000238418579,
-            "mood": "active",
-            "pulse": 0.3869999945163727,
-            "tempo": 75.0
-          },
-          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
-          "durationMs": 172696,
-          "title": "Ведьмин дом"
         }
       },
       "tracksStorages": [
@@ -1284,10 +1259,6 @@
             "9000000046": {
               "durationMs": 236053,
               "url": "9000000046"
-            },
-            "9000000047": {
-              "durationMs": 172696,
-              "url": "9000000047"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
