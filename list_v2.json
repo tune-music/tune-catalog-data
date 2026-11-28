@@ -154,7 +154,6 @@
             "9000000048",
             "9000000049",
             "9000000050",
-            "9000000051",
             "29863097",
             "29863098",
             "29863099",
@@ -172,7 +171,6 @@
             "9000000048",
             "9000000049",
             "9000000050",
-            "9000000051",
             "29863097",
             "29863098",
             "29863099",
@@ -1173,29 +1171,6 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
           "durationMs": 252082,
           "title": "Внутренности в кейсе"
-        },
-        "9000000051": {
-          "artists": [
-            {
-              "id": 4443004,
-              "name": "PHARAOH"
-            },
-            {
-              "id": 4480055,
-              "name": "Boulevard Depo"
-            }
-          ],
-          "audioProfile": {
-            "bass": 0.8259999752044678,
-            "brightness": 0.15800000727176666,
-            "energy": 0.6859999895095825,
-            "mood": "active",
-            "pulse": 0.28700000047683716,
-            "tempo": 160.0
-          },
-          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
-          "durationMs": 283272,
-          "title": "Tearz"
         }
       },
       "tracksStorages": [
@@ -1400,10 +1375,6 @@
             "9000000050": {
               "durationMs": 252082,
               "url": "9000000050"
-            },
-            "9000000051": {
-              "durationMs": 283272,
-              "url": "9000000051"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
