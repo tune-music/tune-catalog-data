@@ -155,7 +155,6 @@
             "9000000049",
             "9000000050",
             "9000000051",
-            "9000000052",
             "29863097",
             "29863098",
             "29863099",
@@ -174,7 +173,6 @@
             "9000000049",
             "9000000050",
             "9000000051",
-            "9000000052",
             "29863097",
             "29863098",
             "29863099",
@@ -351,7 +349,7 @@
             }
           ],
           "audioProfile": {
-            "bass": 0.46299999952316284,
+            "bass": 0.4629999995231629,
             "brightness": 0.3700000047683716,
             "energy": 0.7300000190734863,
             "mood": "active",
@@ -389,7 +387,7 @@
             }
           ],
           "audioProfile": {
-            "bass": 0.9229999780654907,
+            "bass": 0.9229999780654908,
             "brightness": 0.335999995470047,
             "energy": 0.8619999885559082,
             "mood": "active",
@@ -447,11 +445,11 @@
           ],
           "audioProfile": {
             "bass": 0.8669999837875366,
-            "brightness": 0.20399999618530273,
+            "brightness": 0.2039999961853027,
             "energy": 0.8169999718666077,
             "mood": "active",
             "pulse": 0.5370000004768372,
-            "tempo": 184.60000610351562
+            "tempo": 184.6000061035156
           },
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 193097,
@@ -564,8 +562,8 @@
             "brightness": 0.4050000011920929,
             "energy": 0.8339999914169312,
             "mood": "active",
-            "pulse": 0.46700000762939453,
-            "tempo": 126.30000305175781
+            "pulse": 0.4670000076293946,
+            "tempo": 126.3000030517578
           },
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 193438,
@@ -622,7 +620,7 @@
             "energy": 0.621999979019165,
             "mood": "sad",
             "pulse": 0.2939999997615814,
-            "tempo": 126.30000305175781
+            "tempo": 126.3000030517578
           },
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000001.jpg",
           "durationMs": 230819,
@@ -676,7 +674,7 @@
           "audioProfile": {
             "bass": 0.8009999990463257,
             "brightness": 0.328000009059906,
-            "energy": 0.9070000052452087,
+            "energy": 0.9070000052452089,
             "mood": "active",
             "pulse": 0.7490000128746033,
             "tempo": 150.0
@@ -736,7 +734,7 @@
             "energy": 0.8999999761581421,
             "mood": "active",
             "pulse": 1.0,
-            "tempo": 126.30000305175781
+            "tempo": 126.3000030517578
           },
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 354187,
@@ -755,7 +753,7 @@
             "energy": 0.8970000147819519,
             "mood": "active",
             "pulse": 1.0,
-            "tempo": 126.30000305175781
+            "tempo": 126.3000030517578
           },
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 239733,
@@ -774,7 +772,7 @@
             "energy": 0.8450000286102295,
             "mood": "active",
             "pulse": 0.5410000085830688,
-            "tempo": 104.30000305175781
+            "tempo": 104.3000030517578
           },
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 180707,
@@ -790,7 +788,7 @@
           "audioProfile": {
             "bass": 0.7160000205039978,
             "brightness": 0.37400001287460327,
-            "energy": 0.9570000171661377,
+            "energy": 0.9570000171661376,
             "mood": "active",
             "pulse": 1.0,
             "tempo": 64.9000015258789
@@ -812,7 +810,7 @@
             "energy": 0.7720000147819519,
             "mood": "active",
             "pulse": 0.5720000267028809,
-            "tempo": 126.30000305175781
+            "tempo": 126.3000030517578
           },
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 291467,
@@ -850,7 +848,7 @@
             "energy": 0.6069999933242798,
             "mood": "sad",
             "pulse": 0.3720000088214874,
-            "tempo": 104.30000305175781
+            "tempo": 104.3000030517578
           },
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000002.jpg",
           "durationMs": 328800,
@@ -902,7 +900,7 @@
             }
           ],
           "audioProfile": {
-            "bass": 0.9330000281333923,
+            "bass": 0.9330000281333924,
             "brightness": 0.4059999883174896,
             "energy": 0.9639999866485596,
             "mood": "active",
@@ -944,7 +942,7 @@
             "brightness": 0.12800000607967377,
             "energy": 0.6359999775886536,
             "mood": "active",
-            "pulse": 0.40799999237060547,
+            "pulse": 0.4079999923706054,
             "tempo": 77.4000015258789
           },
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-900000003.jpg",
@@ -959,7 +957,7 @@
             }
           ],
           "audioProfile": {
-            "bass": 0.9599999785423279,
+            "bass": 0.959999978542328,
             "brightness": 0.10700000077486038,
             "energy": 0.847000002861023,
             "mood": "active",
@@ -998,7 +996,7 @@
           ],
           "audioProfile": {
             "bass": 0.8420000076293945,
-            "brightness": 0.09099999815225601,
+            "brightness": 0.090999998152256,
             "energy": 0.7739999890327454,
             "mood": "active",
             "pulse": 0.7440000176429749,
@@ -1017,7 +1015,7 @@
           ],
           "audioProfile": {
             "bass": 0.257999986410141,
-            "brightness": 0.11699999868869781,
+            "brightness": 0.1169999986886978,
             "energy": 0.3880000114440918,
             "mood": "sad",
             "pulse": 0.3059999942779541,
@@ -1055,7 +1053,7 @@
           ],
           "audioProfile": {
             "bass": 0.3799999952316284,
-            "brightness": 0.10999999940395355,
+            "brightness": 0.10999999940395357,
             "energy": 0.5519999861717224,
             "mood": "sad",
             "pulse": 0.5709999799728394,
@@ -1142,7 +1140,7 @@
             }
           ],
           "audioProfile": {
-            "bass": 0.9020000100135803,
+            "bass": 0.9020000100135804,
             "brightness": 0.2160000056028366,
             "energy": 0.7269999980926514,
             "mood": "active",
@@ -1198,29 +1196,6 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
           "durationMs": 283272,
           "title": "Tearz"
-        },
-        "9000000052": {
-          "artists": [
-            {
-              "id": 4443004,
-              "name": "PHARAOH"
-            },
-            {
-              "id": 4480055,
-              "name": "Boulevard Depo"
-            }
-          ],
-          "audioProfile": {
-            "bass": 0.9800000190734863,
-            "brightness": 0.12099999934434891,
-            "energy": 0.8339999914169312,
-            "mood": "active",
-            "pulse": 0.3869999945163727,
-            "tempo": 66.69999694824219
-          },
-          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
-          "durationMs": 271177,
-          "title": "Tekken Thug"
         }
       },
       "tracksStorages": [
@@ -1429,10 +1404,6 @@
             "9000000051": {
               "durationMs": 283272,
               "url": "9000000051"
-            },
-            "9000000052": {
-              "durationMs": 271177,
-              "url": "9000000052"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
