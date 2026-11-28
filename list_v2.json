@@ -153,7 +153,6 @@
             "9000000047",
             "9000000048",
             "9000000049",
-            "9000000050",
             "29863097",
             "29863098",
             "29863099",
@@ -170,7 +169,6 @@
             "9000000047",
             "9000000048",
             "9000000049",
-            "9000000050",
             "29863097",
             "29863098",
             "29863099",
@@ -1148,29 +1146,6 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
           "durationMs": 252291,
           "title": "Pokenav"
-        },
-        "9000000050": {
-          "artists": [
-            {
-              "id": 4443004,
-              "name": "PHARAOH"
-            },
-            {
-              "id": 4480055,
-              "name": "Boulevard Depo"
-            }
-          ],
-          "audioProfile": {
-            "bass": 0.9789999723434448,
-            "brightness": 0.2370000034570694,
-            "energy": 0.8619999885559082,
-            "mood": "active",
-            "pulse": 0.5569999814033508,
-            "tempo": 100.0
-          },
-          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
-          "durationMs": 252082,
-          "title": "Внутренности в кейсе"
         }
       },
       "tracksStorages": [
@@ -1371,10 +1346,6 @@
             "9000000049": {
               "durationMs": 252291,
               "url": "9000000049"
-            },
-            "9000000050": {
-              "durationMs": 252082,
-              "url": "9000000050"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
