@@ -152,7 +152,6 @@
           "tracks": [
             "9000000047",
             "9000000048",
-            "9000000049",
             "29863097",
             "29863098",
             "29863099",
@@ -168,7 +167,6 @@
           "tracks": [
             "9000000047",
             "9000000048",
-            "9000000049",
             "29863097",
             "29863098",
             "29863099",
@@ -1123,29 +1121,6 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
           "durationMs": 196545,
           "title": "Zatoichi"
-        },
-        "9000000049": {
-          "artists": [
-            {
-              "id": 4443004,
-              "name": "PHARAOH"
-            },
-            {
-              "id": 4480055,
-              "name": "Boulevard Depo"
-            }
-          ],
-          "audioProfile": {
-            "bass": 0.9020000100135804,
-            "brightness": 0.2160000056028366,
-            "energy": 0.7269999980926514,
-            "mood": "active",
-            "pulse": 0.34599998593330383,
-            "tempo": 77.4000015258789
-          },
-          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
-          "durationMs": 252291,
-          "title": "Pokenav"
         }
       },
       "tracksStorages": [
@@ -1342,10 +1317,6 @@
             "9000000048": {
               "durationMs": 196545,
               "url": "9000000048"
-            },
-            "9000000049": {
-              "durationMs": 252291,
-              "url": "9000000049"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
