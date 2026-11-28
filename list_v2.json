@@ -25,6 +25,31 @@
           ],
           "year": 2020
         },
+        "3601073": {
+          "artists": [
+            {
+              "id": 4443004,
+              "name": "PHARAOH"
+            },
+            {
+              "id": 4480055,
+              "name": "Boulevard Depo"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
+          "title": "Paywall",
+          "volumes": [
+            [
+              "9000000047",
+              "9000000048",
+              "9000000049",
+              "9000000050",
+              "9000000051",
+              "9000000052"
+            ]
+          ],
+          "year": 2015
+        },
         "900000001": {
           "artists": [
             {
@@ -118,6 +143,32 @@
           ],
           "tracks": [
             "9000000046"
+          ]
+        },
+        "4443004": {
+          "albums": [
+            "3601073"
+          ],
+          "tracks": [
+            "9000000047",
+            "9000000048",
+            "9000000049",
+            "9000000050",
+            "9000000051",
+            "9000000052"
+          ]
+        },
+        "4480055": {
+          "albums": [
+            "3601073"
+          ],
+          "tracks": [
+            "9000000047",
+            "9000000048",
+            "9000000049",
+            "9000000050",
+            "9000000051",
+            "9000000052"
           ]
         },
         "453589": {
@@ -610,6 +661,96 @@
           "coverUri": "music-avatars.music.yandex.net/get-music-content/13529784/60f41fb0.a.32962851-1/%%",
           "durationMs": 236053,
           "title": "Это пройдёт"
+        },
+        "9000000047": {
+          "artists": [
+            {
+              "id": 4443004,
+              "name": "PHARAOH"
+            },
+            {
+              "id": 4480055,
+              "name": "Boulevard Depo"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
+          "durationMs": 172696,
+          "title": "Ведьмин дом"
+        },
+        "9000000048": {
+          "artists": [
+            {
+              "id": 4443004,
+              "name": "PHARAOH"
+            },
+            {
+              "id": 4480055,
+              "name": "Boulevard Depo"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
+          "durationMs": 196545,
+          "title": "Zatoichi"
+        },
+        "9000000049": {
+          "artists": [
+            {
+              "id": 4443004,
+              "name": "PHARAOH"
+            },
+            {
+              "id": 4480055,
+              "name": "Boulevard Depo"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
+          "durationMs": 252291,
+          "title": "Pokenav"
+        },
+        "9000000050": {
+          "artists": [
+            {
+              "id": 4443004,
+              "name": "PHARAOH"
+            },
+            {
+              "id": 4480055,
+              "name": "Boulevard Depo"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
+          "durationMs": 252082,
+          "title": "Внутренности в кейсе"
+        },
+        "9000000051": {
+          "artists": [
+            {
+              "id": 4443004,
+              "name": "PHARAOH"
+            },
+            {
+              "id": 4480055,
+              "name": "Boulevard Depo"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
+          "durationMs": 283272,
+          "title": "Tearz"
+        },
+        "9000000052": {
+          "artists": [
+            {
+              "id": 4443004,
+              "name": "PHARAOH"
+            },
+            {
+              "id": 4480055,
+              "name": "Boulevard Depo"
+            }
+          ],
+          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
+          "durationMs": 271177,
+          "title": "Tekken Thug"
         }
       },
       "tracksStorages": [
@@ -774,6 +915,30 @@
             "9000000046": {
               "durationMs": 236053,
               "url": "9000000046"
+            },
+            "9000000047": {
+              "durationMs": 172696,
+              "url": "9000000047"
+            },
+            "9000000048": {
+              "durationMs": 196545,
+              "url": "9000000048"
+            },
+            "9000000049": {
+              "durationMs": 252291,
+              "url": "9000000049"
+            },
+            "9000000050": {
+              "durationMs": 252082,
+              "url": "9000000050"
+            },
+            "9000000051": {
+              "durationMs": 283272,
+              "url": "9000000051"
+            },
+            "9000000052": {
+              "durationMs": 271177,
+              "url": "9000000052"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
