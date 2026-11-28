@@ -151,7 +151,6 @@
           ],
           "tracks": [
             "9000000047",
-            "9000000048",
             "29863097",
             "29863098",
             "29863099",
@@ -166,7 +165,6 @@
           ],
           "tracks": [
             "9000000047",
-            "9000000048",
             "29863097",
             "29863098",
             "29863099",
@@ -1098,29 +1096,6 @@
           "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
           "durationMs": 172696,
           "title": "Ведьмин дом"
-        },
-        "9000000048": {
-          "artists": [
-            {
-              "id": 4443004,
-              "name": "PHARAOH"
-            },
-            {
-              "id": 4480055,
-              "name": "Boulevard Depo"
-            }
-          ],
-          "audioProfile": {
-            "bass": 0.8619999885559082,
-            "brightness": 0.0949999988079071,
-            "energy": 0.6639999747276306,
-            "mood": "active",
-            "pulse": 0.3490000069141388,
-            "tempo": 109.0999984741211
-          },
-          "coverUri": "https://cdn.jsdelivr.net/gh/tune-music/tune-catalog-data@main/covers/a-3601073.jpg",
-          "durationMs": 196545,
-          "title": "Zatoichi"
         }
       },
       "tracksStorages": [
@@ -1313,10 +1288,6 @@
             "9000000047": {
               "durationMs": 172696,
               "url": "9000000047"
-            },
-            "9000000048": {
-              "durationMs": 196545,
-              "url": "9000000048"
             }
           },
           "urlTemplate": "https://github.com/tune-music/tune-catalog-data/releases/download/audio-1/%%.mp3"
